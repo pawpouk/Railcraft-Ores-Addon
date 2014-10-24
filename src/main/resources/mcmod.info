@@ -1,0 +1,16 @@
+[
+{
+  "modid": "rcbasicores",
+  "name": "Railcraft ores",
+  "description": "Adds copper, tin and lead ore for Railcraft.",
+  "version": "0.1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["pawpouk"],
+  "credits": "The Forge and FML guys, for making it possible",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["Forge" , "Railcraft"]
+}
+]

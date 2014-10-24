@@ -1,0 +1,4 @@
+tile.rcbasicores_rcoreblock.name=Ore block
+tile.rcbasicores_rcoreblock.blockOreCopper.name=Copper ore
+tile.rcbasicores_rcoreblock.blockOreLead.name=Lead ore
+tile.rcbasicores_rcoreblock.blockOreTin.name=Tin ore
